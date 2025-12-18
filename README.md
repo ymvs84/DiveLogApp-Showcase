@@ -42,7 +42,6 @@ El sistema sigue una arquitectura monolítica modular desacoplada, diseñada par
 > *El sistema desacopla el cliente web del núcleo lógico mediante una API RESTful, permitiendo múltiples clientes (Web, Mobile).*
 
 ![Architecture Diagram](assets/arquitectura.png)
-*(Ver Página 12 de la Memoria Técnica)*
 
 ### Stack Tecnológico
 
@@ -62,7 +61,6 @@ El sistema sigue una arquitectura monolítica modular desacoplada, diseñada par
 La base de datos PostgreSQL ha sido normalizada para garantizar la integridad de los datos críticos de seguridad (inmersiones y equipos).
 
 ![Entity Relation Diagram](assets/erd_database.png)
-*(Esquema relacional mostrando la vinculación entre Usuarios, Equipos, Certificaciones e Inmersiones - Ver Pág 16 Memoria)*
 
 ---
 

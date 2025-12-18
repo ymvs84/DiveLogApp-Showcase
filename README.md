@@ -83,7 +83,7 @@ Puedes probar la aplicación en entorno de producción sin necesidad de registro
 
 * **URL:** [https://divelogapp-production.up.railway.app/](https://divelogapp-production.up.railway.app/)
 * **Usuario:** `demo@divelog.com`
-* **Contraseña:** `divelogdemo`
+* **Contraseña:** `#D1v3L0gD3m0`
 ---
 
 ## 🛡️ Notas de Seguridad y Privacidad
